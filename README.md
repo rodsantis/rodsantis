@@ -6,7 +6,6 @@
 - 👨‍💻 Full-time Technical Support Specialist with hands-on experience solving real-world issues.
 - 🛠 Tech stack: Python · Django · SQL
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodsantis/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm always learning—balancing courses, work tickets, and bedtime stories!
 
 ✨ Thanks for visiting! Have a great day.
