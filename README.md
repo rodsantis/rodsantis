@@ -1,10 +1,12 @@
 ## Hi there 👋 I'm Rodrigo
 
-- 🔭 I’m currently working on a Timecard app for employees to punch in and punch out
-- 🌱 I’m currently learning Django and Information Systems at University
-- 👯 I’m looking to collaborate on Python projects
-- 🤔 I’m looking for help on finding my first back-end job
-- 💬 Ask me about how will I bring an improvement to your company
-- 📫 How to reach me: https://www.linkedin.com/in/rodsantis/
+- 🔭 I’m currently working on a **Timecard** app for employees to punch in and punch out.
+- 🌱 Learning modern web frameworks (like Django) and studying Information Systems at university.
+- 🤝 Seeking advice and connections to help secure my first back-end developer role. Open to collaborating on open-source projects and eager to learn from experienced developers.
+- 👨‍💻 Full-time Technical Support Specialist with hands-on experience solving real-world issues.
+- 🛠 Tech stack: Python · Django · SQL
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodsantis/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I live in Italy, but I don't drink wine! 
+- ⚡ Fun fact: I'm always learning—balancing courses, work tickets, and bedtime stories!
+
+✨ Thanks for visiting! Have a great day.
